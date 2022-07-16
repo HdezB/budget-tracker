@@ -12,6 +12,7 @@ is that it allows users to use the app and iteract with it even if the network c
 * JS
 * Express
 * Mongoose
+* MongoDB
 * Service Workers
 * indexedDB
 
